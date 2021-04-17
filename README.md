@@ -5,3 +5,5 @@ Jupyter notebook for Machine Learning
 👀 I’m interested in computer vision and machine learning
 🌱 I’m currently learning Python and SQL
 📫 Can to reach me kaggle.com/felipedutralisboa or linkedin.com/in/felipe-dutra-lisboa-655baa1b2/
+
+You can remove the vertical_flip if you don't want the image to be upside down
